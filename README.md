@@ -21,8 +21,12 @@ Configurable through JSON or Python API
 To install S.O.P.P., first ensure you have Python 3.8+ installed. Then, clone the repository and install dependencies:
 
 ### Clone the repository
+```
 git clone https://github.com/example/sopp.git
 cd sopp
+```
 
 ### Install dependencies
+```
 pip install -r requirements.txt
+```
