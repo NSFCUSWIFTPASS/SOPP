@@ -1,5 +1,10 @@
 # Satellite Orbit Prediction Processor (S.O.P.P.)
 
+## Quick Install
+```
+pip install sopp
+```
+
 ## Overview
 
 S.O.P.P. (Satellite Orbit Prediction Processor) is an open-source tool designed to help radio astronomers mitigate interference from satellites during observations. It calculates satellite positions relative to an observation facility and identifies potential interference with the main beam of the telescope.
